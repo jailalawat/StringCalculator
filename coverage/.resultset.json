@@ -1,0 +1,78 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/jailalawat/projects/string_calculator/lib/string_calculator.rb": {
+        "lines": [
+          1,
+          1,
+          10,
+          null,
+          9,
+          9,
+          2,
+          2,
+          null,
+          null,
+          9,
+          34,
+          null,
+          9,
+          1,
+          null,
+          null,
+          8,
+          null,
+          null
+        ]
+      },
+      "/Users/jailalawat/projects/string_calculator/spec/lib/string_calculator_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1709807895
+  }
+}
